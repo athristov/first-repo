@@ -2,7 +2,15 @@ Hi!
 
 This is my first repo.
 
+
 Update with Tortoise…
 
 
 New change here.
+
+
+Updating with Bash…
+
+Update with Tortoise…
+
+
